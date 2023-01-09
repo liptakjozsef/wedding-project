@@ -1,1 +1,1 @@
-https://github.com/liptakjozsef/wedding-project
+https://liptakjozsef.github.io/wedding-project/
